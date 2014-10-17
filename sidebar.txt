@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wud:home|Door43 (wud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wud|d43-wud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wud/archive/master.zip|d43-wud.zip]]
+
+**Recent Changes**
+{{changes>ns = wud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wud|Ethnologue data]]
+
